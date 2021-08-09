@@ -1,1 +1,1 @@
-# SimpleApp code by mao
+# SimpleApp maokaka
